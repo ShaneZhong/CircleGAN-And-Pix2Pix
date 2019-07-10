@@ -53,6 +53,7 @@ The key idea behind CycleGANs is that they can build upon the power of the PIX2P
 The way CycleGANs are able to learn such great translations without having explicit X/Y training images involves introducing the idea of a full translation cycle to determine how good the entire translation system is, thus improving both generators at the same time.
 
 ![cycle-consistency loss](https://cdn-images-1.medium.com/max/1600/0*D5yQU7v0NHXsb1Ep.jpg)
+
 This approach is the clever power that CycleGANs brings to image-to-image translations and how it enables better translations among non-paired image styles.
 
 The original CycleGANs paper, [“Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks”](https://arxiv.org/pdf/1703.10593.pdf), was published by Jun-Yan Zhu, et al.
