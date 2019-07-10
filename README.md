@@ -1,5 +1,5 @@
 # Using CircleGAN and Pix2Pix in Tensorflow 2.0
-This repo contains Colab notebooks that allow you to implment Pix2Pix and CircleGAN using TensorFlow 2.0. Below is the high-level overview of the two models.
+This repo contains Colab notebooks that allow you to implement Pix2Pix and CircleGAN using TensorFlow 2.0. Below is the high-level overview of the two models.
 
 ## Pix2Pix:
 paper: https://phillipi.github.io/pix2pix/
